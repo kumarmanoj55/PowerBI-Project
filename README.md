@@ -1,4 +1,4 @@
-#🏦 Bank Analysis Dashboard – Power BI
+# 🏦 Bank Analysis Dashboard – Power BI
 
 A comprehensive Power BI dashboard designed to analyze key banking metrics such as deposits, loans, customer profiles, fee structure, and credit card portfolio. This project helps visualize financial performance and customer behavior using interactive charts, KPIs, and slicers.
 
