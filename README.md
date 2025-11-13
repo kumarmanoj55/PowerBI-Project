@@ -15,7 +15,7 @@ Deposit Analysis
 
 Each page provides deep insights through dynamic filters (Gender, Banking Relationship, Investment Advisor).
 
-#📁 Dataset Used
+## 📁 Dataset Used
 
 File: Banking.xlsx
 The dataset includes the following categories:
@@ -32,7 +32,7 @@ Fee structure (High, Mid, Low)
 
 Banking relationships & advisors
 
-#🚀 Key Features of the Dashboard
+## 🚀 Key Features of the Dashboard
 1. Home Page (Overall Summary)
 
 Total Clients
@@ -69,7 +69,7 @@ Deposits by fee structure (donut chart)
 
 Deposits by nationality (treemap chart)
 
-#🧩 Skills & Tools Used
+## 🧩 Skills & Tools Used
 
 Power BI Desktop
 
@@ -81,7 +81,7 @@ Data Modeling (relationships, star schema)
 
 Interactive Visualizations (bar, donut, treemap, KPI cards)
 
-#🎯 Insights Derived
+## 🎯 Insights Derived
 
 Identified high-value customer segments based on nationality and account type
 
