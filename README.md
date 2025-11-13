@@ -90,3 +90,4 @@ Compared deposit and loan performance across multiple banking relationships
 Observed gender-wise distribution of financial products
 
 Highlighted profitability trends using fee structure segmentation
+## 📈 Dashboard Screenshots
