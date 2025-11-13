@@ -91,5 +91,9 @@ Observed gender-wise distribution of financial products
 
 Highlighted profitability trends using fee structure segmentation
 ## 📈 Dashboard Screenshots
-
+HOme Page
 <img width="1171" height="674" alt="Home_Page" src="https://github.com/user-attachments/assets/1949b871-cf73-43d5-bfc0-183eaec68ba5" />
+Loan Analysis Page 
+<img width="1145" height="632" alt="Loan_Analysis" src="https://github.com/user-attachments/assets/57d3fd48-feab-4f6b-93eb-06c0d4eedda9" />
+Deposite Analysis Page
+<img width="1147" height="654" alt="Deposite_Analysis" src="https://github.com/user-attachments/assets/a27781e0-de0e-47f5-beee-97b0dcb4a6b1" />
