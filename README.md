@@ -2,7 +2,7 @@
 
 A comprehensive Power BI dashboard designed to analyze key banking metrics such as deposits, loans, customer profiles, fee structure, and credit card portfolio. This project helps visualize financial performance and customer behavior using interactive charts, KPIs, and slicers.
 
-#📊 Project Overview
+## 📊 Project Overview
 
 This project analyzes banking data across multiple dimensions to understand customer demographics, deposit patterns, loan distribution, and credit card usage.
 The dashboard is divided into three interactive pages:
